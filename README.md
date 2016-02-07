@@ -1,4 +1,4 @@
-# Unreal Engine 4 - 16bit Game
+# Unreal Engine 4: 16bit Game
 Unreal Engine 4: 16-bit Adventure Game
 
 - Currently designing a 2D platformer video game with Unreal Engine 4 using Blueprint.
